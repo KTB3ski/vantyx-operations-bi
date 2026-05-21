@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+src-tauri/target/
+target/
+
+# local platform/deploy metadata
+.vercel/
+.netlify/
+
+# environment and access files
+.env
+.env.*
+*.env
+Vyntax_Plan_Assist_Access.json
+!Vyntax_Plan_Assist_Access.example.json
+
+# logs and caches
+*.log
+.cache/
+.vite/
+
+# release/install artifacts
+*.zip
+*.exe
+*.msi
+*.sig
+*.pdb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
