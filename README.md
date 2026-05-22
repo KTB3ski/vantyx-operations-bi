@@ -4,6 +4,10 @@ VANTYX is a local-first desktop and browser-demo tool for hotel and operations t
 
 The project is an active prototype built to show operations-to-software product thinking: start with a real workflow, organize the data, identify the gap, and produce a practical next-action view.
 
+## Demo Video
+
+[Watch the VANTYX demo walkthrough](https://youtu.be/jwtubXtU6mY)
+
 ![VANTYX dashboard](docs/screenshots/vantyx-dashboard.png)
 
 ![VANTYX demo workspace](docs/screenshots/vantyx-demo-workspace.png)
